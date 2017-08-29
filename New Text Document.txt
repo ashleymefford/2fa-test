@@ -1,7 +1,17 @@
 hello
+<<<<<<< HEAD
 who out the bob in the
 bopshabop
 Who was that man
 laksjdflkajsdlf
 laskdflakjsdfklaksdjflakjsdf
 sfdglskdfjglksdflgk
+=======
+I love unicorns bop in the
+booooobss
+bopshabop
+who farfigugin in the ramalama 
+who was that dooooddd
+laksjdflkajsdlf
+lhello World
+>>>>>>> 8f7a59d22c9968d3403618ef6b99e1d26f4c4656
